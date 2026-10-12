@@ -1,0 +1,61 @@
+Worker ID,Department,Job Role,Shift,PPE Compliance,Safety Training,Fatigue Level,Safety Observations,Near Misses,Previous Incidents,Risk Level
+WRK-001,Underground,Operator,Night,Compliant,Valid,5,0,0,2,Medium
+WRK-002,Maintenance,Operator,Day,Compliant,Valid,4,4,0,2,Low
+WRK-003,Open Pit,Supervisor,Night,Compliant,Valid,5,0,1,2,Medium
+WRK-004,Maintenance,Blaster,Night,Compliant,Expired,7,2,0,0,Critical
+WRK-005,Underground,Blaster,Night,Compliant,Valid,4,5,3,2,Medium
+WRK-006,Underground,Fitter,Day,Compliant,Valid,4,4,2,2,Medium
+WRK-007,Open Pit,Supervisor,Day,Compliant,Valid,7,2,0,0,High
+WRK-008,Maintenance,Blaster,Night,Compliant,Valid,6,2,2,0,Medium
+WRK-009,Processing,Supervisor,Day,Compliant,Valid,3,5,1,0,Low
+WRK-010,Maintenance,Fitter,Night,Non-Compliant,Valid,5,4,1,2,Critical
+WRK-011,Underground,Driller,Day,Compliant,Valid,3,0,1,2,Low
+WRK-012,Processing,Driller,Night,Compliant,Expired,3,3,1,1,High
+WRK-013,Open Pit,Supervisor,Night,Compliant,Valid,4,4,3,1,Medium
+WRK-014,Open Pit,Driller,Night,Compliant,Valid,1,0,1,2,Low
+WRK-015,Open Pit,Supervisor,Night,Compliant,Valid,1,4,3,2,Medium
+WRK-016,Processing,Electrician,Day,Compliant,Valid,3,4,2,2,Medium
+WRK-017,Processing,Operator,Night,Compliant,Valid,2,5,2,2,Medium
+WRK-018,Open Pit,Electrician,Day,Non-Compliant,Valid,5,5,1,0,Critical
+WRK-019,Open Pit,Electrician,Day,Compliant,Valid,2,0,2,1,Medium
+WRK-020,Open Pit,Operator,Day,Non-Compliant,Expired,1,0,3,0,High
+WRK-021,Open Pit,Supervisor,Night,Non-Compliant,Valid,7,4,3,0,High
+WRK-022,Processing,Fitter,Night,Compliant,Valid,4,0,1,0,Low
+WRK-023,Underground,Blaster,Day,Compliant,Valid,4,1,0,0,Low
+WRK-024,Underground,Driller,Day,Non-Compliant,Valid,1,0,1,1,Critical
+WRK-025,Open Pit,Electrician,Day,Compliant,Valid,3,4,3,0,Medium
+WRK-026,Maintenance,Fitter,Day,Compliant,Valid,4,2,3,1,Medium
+WRK-027,Maintenance,Supervisor,Day,Compliant,Expired,2,0,0,1,Critical
+WRK-028,Underground,Driller,Day,Compliant,Valid,5,3,1,1,Medium
+WRK-029,Maintenance,Driller,Day,Compliant,Valid,3,4,0,0,Low
+WRK-030,Engineering,Operator,Day,Non-Compliant,Valid,3,1,3,1,Critical
+WRK-031,Open Pit,Fitter,Day,Compliant,Valid,3,3,2,1,Medium
+WRK-032,Processing,Fitter,Night,Compliant,Valid,8,0,0,2,Critical
+WRK-033,Underground,Operator,Night,Compliant,Valid,4,1,0,2,Low
+WRK-034,Underground,Driller,Day,Compliant,Valid,2,1,3,0,Medium
+WRK-035,Engineering,Driller,Day,Compliant,Valid,6,4,2,1,Medium
+WRK-036,Open Pit,Supervisor,Night,Compliant,Valid,2,5,2,1,Medium
+WRK-037,Processing,Operator,Day,Compliant,Expired,4,0,0,2,High
+WRK-038,Engineering,Blaster,Day,Non-Compliant,Valid,1,1,2,1,High
+WRK-039,Maintenance,Electrician,Night,Compliant,Expired,1,5,0,2,Critical
+WRK-040,Underground,Driller,Night,Compliant,Valid,4,4,1,1,Low
+WRK-041,Processing,Electrician,Day,Compliant,Valid,5,5,2,2,Medium
+WRK-042,Maintenance,Blaster,Day,Compliant,Valid,4,2,0,0,Low
+WRK-043,Processing,Driller,Night,Compliant,Valid,4,5,3,2,Medium
+WRK-044,Underground,Operator,Day,Non-Compliant,Valid,3,1,0,1,High
+WRK-045,Maintenance,Driller,Day,Compliant,Valid,1,0,2,0,Medium
+WRK-046,Open Pit,Supervisor,Day,Compliant,Valid,3,3,1,0,Low
+WRK-047,Open Pit,Driller,Night,Compliant,Valid,3,2,3,2,Medium
+WRK-048,Open Pit,Blaster,Day,Compliant,Valid,6,0,3,0,Medium
+WRK-049,Open Pit,Fitter,Night,Compliant,Valid,5,1,1,0,Medium
+WRK-050,Open Pit,Fitter,Night,Compliant,Valid,1,2,2,2,Medium
+WRK-051,Engineering,Fitter,Night,Non-Compliant,Valid,5,2,1,2,Critical
+WRK-052,Underground,Operator,Night,Compliant,Valid,3,3,0,1,Low
+WRK-053,Engineering,Driller,Night,Compliant,Valid,3,4,1,1,Low
+WRK-054,Maintenance,Operator,Night,Compliant,Valid,5,0,2,2,Medium
+WRK-055,Processing,Supervisor,Night,Compliant,Valid,6,4,1,0,Medium
+WRK-056,Maintenance,Supervisor,Night,Compliant,Expired,6,4,2,1,High
+WRK-057,Processing,Blaster,Day,Compliant,Valid,2,5,2,1,Medium
+WRK-058,Maintenance,Fitter,Day,Compliant,Valid,3,5,1,2,Low
+WRK-059,Underground,Blaster,Night,Compliant,Expired,5,1,2,0,High
+WRK-060,Open Pit,Operator,Day,Compliant,Valid,6,0,3,1,Medium

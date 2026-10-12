@@ -1,0 +1,33 @@
+Equipment ID,Equipment Type,Manufacturer,Operating Hours,Downtime,Temperature (C),Vibration (mm/s),Fuel Consumption (L/h),Brake Status,Tyre Status,Engine Status,Maintenance Status,Availability (%)
+TRK-001,Haul Truck,Joy Global,3184,134,65.4,4.44,23.7,Worn,Faulty,OK,Overdue,96.0
+TRK-002,Haul Truck,Caterpillar,3631,155,52.9,1.41,20.1,Worn,Worn,Warning,Under Maintenance,95.9
+TRK-003,Haul Truck,Hitachi,2365,504,91.3,9.07,24.5,Faulty,Worn,Faulty,Under Maintenance,82.4
+TRK-004,Haul Truck,Caterpillar,3249,108,73.6,8.01,32.8,Worn,Worn,Faulty,Due,96.8
+LDR-005,Loader,Atlas Copco,1255,196,82.2,3.06,33.1,Worn,OK,OK,Up to date,86.5
+LDR-006,Loader,Hitachi,2933,425,82.2,9.61,22.2,Faulty,OK,Faulty,Due,87.3
+LDR-007,Loader,Hitachi,6562,510,74.3,9.69,21.8,OK,Faulty,OK,Overdue,92.8
+LDR-008,Loader,Joy Global,4260,371,40.0,7.47,18.3,OK,OK,Faulty,Due,92.0
+EXC-009,Excavator,Sandvik,5088,580,76.7,4.1,41.8,OK,Worn,Warning,Under Maintenance,89.8
+EXC-010,Excavator,Joy Global,2757,342,76.8,0.5,41.9,Worn,OK,OK,Due,89.0
+EXC-011,Excavator,Sandvik,7986,125,70.6,6.07,14.4,Faulty,Worn,OK,Overdue,98.5
+EXC-012,Excavator,Joy Global,6470,405,104.6,3.45,10.4,Faulty,Worn,Warning,Due,94.1
+DRL-013,Drill,Hitachi,6831,228,58.8,3.49,26.8,OK,OK,OK,Due,96.8
+DRL-014,Drill,Caterpillar,7474,555,93.3,5.99,21.4,Faulty,Worn,Warning,Due,93.1
+DRL-015,Drill,Caterpillar,6013,138,64.4,6.54,19.4,Faulty,Faulty,Warning,Under Maintenance,97.8
+DRL-016,Drill,Atlas Copco,7300,469,76.9,7.91,10.7,Worn,Faulty,OK,Under Maintenance,94.0
+BLD-017,Bulldozer,Hitachi,4816,579,61.0,4.02,12.7,Faulty,Faulty,Faulty,Due,89.3
+BLD-018,Bulldozer,Sandvik,7289,182,67.2,0.61,26.6,OK,OK,Faulty,Due,97.6
+BLD-019,Bulldozer,Komatsu,3491,218,80.9,5.78,19.9,Faulty,OK,Warning,Overdue,94.1
+BLD-020,Bulldozer,Hitachi,7929,130,75.1,4.3,15.3,Faulty,Worn,OK,Overdue,98.4
+SCR-021,Scraper Winch,Caterpillar,6033,596,46.7,3.74,26.6,OK,Faulty,Faulty,Due,91.0
+SCR-022,Scraper Winch,Atlas Copco,2402,395,68.1,2.59,9.5,OK,OK,OK,Overdue,85.9
+SCR-023,Scraper Winch,Atlas Copco,6334,265,71.8,6.21,23.4,Faulty,OK,Warning,Overdue,96.0
+SCR-024,Scraper Winch,Sandvik,6258,359,112.7,5.52,17.1,Faulty,Worn,Warning,Under Maintenance,94.6
+CRS-025,Crusher,Komatsu,1597,111,80.2,4.78,24.3,Worn,Worn,OK,Overdue,93.5
+CRS-026,Crusher,Hitachi,5969,197,40.0,4.92,39.9,Worn,Faulty,Warning,Under Maintenance,96.8
+CRS-027,Crusher,Atlas Copco,2071,429,76.2,12.39,28.8,Worn,OK,Warning,Up to date,82.8
+CRS-028,Crusher,Komatsu,3191,510,71.2,5.9,13.2,OK,Worn,Warning,Under Maintenance,86.2
+CNV-029,Conveyor,Hitachi,3033,213,74.3,1.49,42.5,Faulty,Worn,OK,Due,93.4
+CNV-030,Conveyor,Sandvik,5081,577,97.9,7.26,26.5,Worn,Worn,OK,Up to date,89.8
+CNV-031,Conveyor,Sandvik,4221,567,90.8,2.27,43.8,OK,Faulty,Warning,Up to date,88.2
+CNV-032,Conveyor,Sandvik,1414,338,103.1,0.79,30.1,Faulty,Faulty,Warning,Overdue,80.7

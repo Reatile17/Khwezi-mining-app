@@ -1,0 +1,41 @@
+Maintenance ID,Equipment ID,Date,Type,Status,Cost (R),Notes
+MNT-001,TRK-001,2026-09-13,Corrective,In Progress,236330,Hydraulic leak fixed
+MNT-002,TRK-024,2026-06-29,Corrective,Completed,110010,Routine service
+MNT-003,TRK-013,2026-07-10,Inspection,Scheduled,24275,Engine overhaul
+MNT-004,TRK-029,2026-05-23,Corrective,Completed,38728,Routine service
+MNT-005,TRK-026,2026-07-07,Corrective,Scheduled,202909,Bearing replaced
+MNT-006,TRK-013,2026-05-09,Inspection,Overdue,136092,Routine service
+MNT-007,TRK-003,2026-10-01,Preventive,Scheduled,215754,Engine overhaul
+MNT-008,TRK-030,2026-09-02,Inspection,In Progress,90974,Brake inspection
+MNT-009,TRK-021,2026-08-30,Corrective,Scheduled,160641,Hydraulic leak fixed
+MNT-010,TRK-032,2026-05-19,Corrective,Overdue,218843,Routine service
+MNT-011,TRK-024,2026-07-18,Inspection,Completed,114193,Brake inspection
+MNT-012,TRK-020,2026-04-17,Inspection,Completed,161476,Engine overhaul
+MNT-013,TRK-017,2026-04-26,Inspection,In Progress,194110,Routine service
+MNT-014,TRK-031,2026-08-28,Inspection,Overdue,43738,Bearing replaced
+MNT-015,TRK-003,2026-05-17,Inspection,Completed,55012,Routine service
+MNT-016,TRK-029,2026-07-22,Corrective,In Progress,113255,Bearing replaced
+MNT-017,TRK-027,2026-06-04,Inspection,Overdue,233803,Routine service
+MNT-018,TRK-009,2026-05-31,Preventive,Scheduled,178598,Engine overhaul
+MNT-019,TRK-025,2026-07-22,Preventive,Overdue,244107,Brake inspection
+MNT-020,TRK-022,2026-05-24,Corrective,Scheduled,164927,Engine overhaul
+MNT-021,TRK-013,2026-08-08,Corrective,Scheduled,63947,Hydraulic leak fixed
+MNT-022,TRK-019,2026-08-18,Inspection,Overdue,88110,Engine overhaul
+MNT-023,TRK-023,2026-05-20,Inspection,Scheduled,80442,Routine service
+MNT-024,TRK-025,2026-07-01,Corrective,In Progress,81140,Routine service
+MNT-025,TRK-019,2026-09-20,Corrective,Overdue,176959,Hydraulic leak fixed
+MNT-026,TRK-031,2026-08-17,Preventive,Scheduled,249586,Brake inspection
+MNT-027,TRK-018,2026-09-05,Preventive,In Progress,68558,Routine service
+MNT-028,TRK-015,2026-04-30,Preventive,Completed,31266,Engine overhaul
+MNT-029,TRK-022,2026-06-12,Preventive,In Progress,6358,Brake inspection
+MNT-030,TRK-011,2026-06-28,Inspection,Overdue,130160,Bearing replaced
+MNT-031,TRK-019,2026-07-20,Corrective,Completed,243010,Routine service
+MNT-032,TRK-015,2026-05-27,Inspection,Completed,244397,Bearing replaced
+MNT-033,TRK-027,2026-08-26,Preventive,Overdue,211559,Engine overhaul
+MNT-034,TRK-012,2026-07-28,Preventive,Completed,83221,Brake inspection
+MNT-035,TRK-007,2026-07-17,Corrective,Overdue,173116,Brake inspection
+MNT-036,TRK-032,2026-09-06,Inspection,Overdue,76522,Bearing replaced
+MNT-037,TRK-008,2026-07-18,Preventive,Overdue,174944,Hydraulic leak fixed
+MNT-038,TRK-012,2026-10-07,Inspection,Scheduled,212294,Hydraulic leak fixed
+MNT-039,TRK-013,2026-08-27,Inspection,Overdue,221790,Engine overhaul
+MNT-040,TRK-021,2026-09-18,Corrective,Completed,53439,Bearing replaced

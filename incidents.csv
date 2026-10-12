@@ -1,0 +1,121 @@
+Incident ID,Date,Time,Shift,Location,Department,Incident Type,Severity,Injury,Lost-Time Injury,Cause,Corrective Action,Status
+INC-0001,2026-09-23,08:52,Day,Pit 2,Open Pit,Struck by Object,Moderate,No,No,Fatigue,Implemented,Open
+INC-0002,2026-07-31,21:51,Night,Pit 2,Underground,Caught In/Between,Major,No,No,Inadequate training,Pending,Open
+INC-0003,2026-08-11,12:13,Day,Stockpile,Maintenance,Fire,Critical,No,No,Inadequate training,Implemented,In Progress
+INC-0004,2026-05-25,14:35,Day,Workshop,Processing,Other,Minor,Yes,Yes,Fatigue,Pending,In Progress
+INC-0005,2026-05-04,12:58,Day,Shaft A,Open Pit,Struck by Object,Minor,Yes,No,Equipment failure,Implemented,Open
+INC-0006,2026-10-11,20:44,Night,Shaft A,Open Pit,Fire,Minor,Yes,No,Wet floor,Implemented,Closed
+INC-0007,2026-10-09,15:34,Day,Pit 2,Underground,Electrical,Major,No,No,Poor visibility,Implemented,In Progress
+INC-0008,2026-08-30,14:27,Day,Shaft B,Maintenance,Caught In/Between,Moderate,No,No,Poor visibility,Implemented,Open
+INC-0009,2026-07-23,01:22,Night,Shaft B,Maintenance,Struck by Object,Moderate,No,No,Lack of PPE,Implemented,In Progress
+INC-0010,2026-09-13,09:22,Day,Shaft B,Maintenance,Struck by Object,Minor,No,No,Human error,Pending,In Progress
+INC-0011,2026-06-08,05:00,Night,Pit 1,Maintenance,Chemical Exposure,Minor,No,No,Inadequate training,Pending,Open
+INC-0012,2026-08-30,16:02,Day,Shaft A,Underground,Caught In/Between,Minor,Yes,No,Equipment failure,Implemented,Closed
+INC-0013,2026-05-23,21:48,Night,Pit 2,Processing,Electrical,Minor,Yes,No,Equipment failure,Implemented,Closed
+INC-0014,2026-05-13,19:59,Night,Workshop,Maintenance,Fire,Minor,Yes,Yes,Fatigue,Pending,Closed
+INC-0015,2026-10-08,10:55,Day,Stockpile,Engineering,Equipment Failure,Minor,No,No,Inadequate training,Implemented,Open
+INC-0016,2026-07-12,08:07,Day,Shaft A,Maintenance,Other,Moderate,Yes,No,Human error,Implemented,In Progress
+INC-0017,2026-09-24,05:25,Night,Workshop,Processing,Other,Minor,Yes,No,Wet floor,Implemented,Closed
+INC-0018,2026-09-12,23:00,Night,Shaft A,Processing,Other,Major,No,No,Equipment failure,Implemented,Closed
+INC-0019,2026-09-18,12:04,Day,Pit 1,Open Pit,Other,Minor,No,No,Equipment failure,Implemented,In Progress
+INC-0020,2026-07-10,23:36,Night,Plant,Underground,Caught In/Between,Moderate,No,No,Human error,Pending,In Progress
+INC-0021,2026-08-18,08:28,Day,Workshop,Maintenance,Other,Minor,No,No,Inadequate training,Pending,In Progress
+INC-0022,2026-06-10,03:24,Night,Pit 1,Maintenance,Electrical,Minor,No,No,Wet floor,Implemented,Closed
+INC-0023,2026-07-08,02:24,Night,Workshop,Open Pit,Electrical,Minor,Yes,Yes,Human error,Implemented,Closed
+INC-0024,2026-05-31,20:53,Night,Stockpile,Engineering,Chemical Exposure,Moderate,Yes,No,Human error,Implemented,In Progress
+INC-0025,2026-06-12,01:51,Night,Shaft B,Processing,Slip/Fall,Minor,No,No,Human error,Implemented,Closed
+INC-0026,2026-05-17,11:35,Day,Pit 1,Maintenance,Other,Moderate,Yes,Yes,Wet floor,Implemented,Open
+INC-0027,2026-06-18,05:47,Night,Shaft A,Engineering,Slip/Fall,Major,No,No,Equipment failure,Pending,Closed
+INC-0028,2026-06-30,16:55,Day,Plant,Engineering,Caught In/Between,Minor,No,No,Inadequate training,Implemented,In Progress
+INC-0029,2026-08-06,00:35,Night,Plant,Engineering,Slip/Fall,Moderate,No,No,Lack of PPE,Implemented,Open
+INC-0030,2026-06-07,10:53,Day,Plant,Underground,Struck by Object,Minor,Yes,Yes,Human error,Implemented,Closed
+INC-0031,2026-09-14,05:58,Night,Stockpile,Maintenance,Equipment Failure,Minor,Yes,Yes,Fatigue,Pending,In Progress
+INC-0032,2026-09-22,09:22,Day,Shaft B,Open Pit,Chemical Exposure,Major,Yes,Yes,Inadequate training,Pending,Open
+INC-0033,2026-05-27,00:18,Night,Pit 1,Maintenance,Equipment Failure,Moderate,No,No,Wet floor,Implemented,Closed
+INC-0034,2026-07-26,23:12,Night,Plant,Underground,Fire,Moderate,No,No,Fatigue,Implemented,In Progress
+INC-0035,2026-04-20,16:54,Day,Plant,Engineering,Slip/Fall,Critical,No,No,Inadequate training,Implemented,In Progress
+INC-0036,2026-09-08,16:28,Day,Workshop,Maintenance,Chemical Exposure,Moderate,No,No,Equipment failure,Implemented,In Progress
+INC-0037,2026-09-24,05:45,Night,Pit 1,Underground,Struck by Object,Minor,No,No,Poor visibility,Implemented,In Progress
+INC-0038,2026-06-27,12:05,Day,Pit 2,Underground,Electrical,Major,No,No,Poor visibility,Implemented,In Progress
+INC-0039,2026-08-23,15:22,Day,Shaft A,Open Pit,Electrical,Major,No,No,Lack of PPE,Implemented,Closed
+INC-0040,2026-08-05,15:53,Day,Workshop,Maintenance,Equipment Failure,Minor,Yes,Yes,Human error,Implemented,Closed
+INC-0041,2026-06-15,12:50,Day,Shaft B,Underground,Other,Minor,Yes,No,Human error,Implemented,Open
+INC-0042,2026-08-20,12:58,Day,Pit 2,Open Pit,Other,Moderate,Yes,No,Lack of PPE,Pending,Open
+INC-0043,2026-09-15,07:27,Day,Pit 1,Maintenance,Electrical,Major,No,No,Inadequate training,Implemented,Open
+INC-0044,2026-06-26,13:59,Day,Workshop,Maintenance,Struck by Object,Major,No,No,Wet floor,Implemented,In Progress
+INC-0045,2026-07-09,08:28,Day,Pit 1,Open Pit,Caught In/Between,Moderate,No,No,Lack of PPE,Implemented,In Progress
+INC-0046,2026-04-26,01:27,Night,Pit 2,Maintenance,Struck by Object,Minor,No,No,Wet floor,Implemented,Open
+INC-0047,2026-08-21,09:01,Day,Pit 2,Underground,Other,Major,No,No,Human error,Implemented,In Progress
+INC-0048,2026-09-28,18:44,Night,Pit 1,Engineering,Fire,Minor,No,No,Fatigue,Pending,In Progress
+INC-0049,2026-10-04,08:04,Day,Stockpile,Maintenance,Slip/Fall,Critical,No,No,Lack of PPE,Pending,Closed
+INC-0050,2026-10-06,23:54,Night,Shaft A,Underground,Other,Moderate,No,No,Equipment failure,Implemented,Open
+INC-0051,2026-04-26,01:30,Night,Pit 2,Open Pit,Caught In/Between,Minor,No,No,Lack of PPE,Implemented,Closed
+INC-0052,2026-05-30,19:51,Night,Plant,Open Pit,Other,Minor,No,No,Lack of PPE,Pending,In Progress
+INC-0053,2026-09-24,23:09,Night,Pit 1,Engineering,Struck by Object,Minor,Yes,No,Human error,Implemented,In Progress
+INC-0054,2026-09-12,00:20,Night,Pit 2,Processing,Caught In/Between,Critical,No,No,Wet floor,Implemented,Open
+INC-0055,2026-06-14,03:16,Night,Shaft A,Maintenance,Chemical Exposure,Minor,Yes,No,Human error,Implemented,Closed
+INC-0056,2026-04-27,10:27,Day,Pit 1,Open Pit,Electrical,Minor,No,No,Equipment failure,Implemented,Closed
+INC-0057,2026-06-18,12:28,Day,Stockpile,Open Pit,Equipment Failure,Moderate,No,No,Fatigue,Implemented,In Progress
+INC-0058,2026-08-04,16:17,Day,Pit 1,Maintenance,Struck by Object,Minor,Yes,No,Equipment failure,Pending,Closed
+INC-0059,2026-07-17,07:12,Day,Pit 1,Maintenance,Chemical Exposure,Major,No,No,Fatigue,Implemented,Open
+INC-0060,2026-08-11,16:49,Day,Workshop,Maintenance,Electrical,Moderate,Yes,No,Human error,Implemented,Open
+INC-0061,2026-06-21,07:47,Day,Workshop,Processing,Fire,Minor,No,No,Inadequate training,Implemented,In Progress
+INC-0062,2026-05-12,11:54,Day,Plant,Processing,Caught In/Between,Minor,No,No,Fatigue,Pending,In Progress
+INC-0063,2026-10-11,00:21,Night,Pit 1,Maintenance,Equipment Failure,Minor,Yes,No,Human error,Pending,Closed
+INC-0064,2026-05-19,03:09,Night,Workshop,Engineering,Fire,Minor,No,No,Lack of PPE,Implemented,Open
+INC-0065,2026-07-30,10:46,Day,Pit 1,Underground,Electrical,Major,No,No,Equipment failure,Implemented,Open
+INC-0066,2026-07-15,18:23,Night,Workshop,Processing,Slip/Fall,Minor,No,No,Wet floor,Pending,Open
+INC-0067,2026-08-08,17:22,Day,Shaft A,Underground,Electrical,Minor,No,No,Equipment failure,Implemented,Closed
+INC-0068,2026-06-05,17:33,Day,Stockpile,Open Pit,Electrical,Moderate,Yes,Yes,Inadequate training,Pending,Closed
+INC-0069,2026-04-14,23:34,Night,Plant,Processing,Struck by Object,Critical,No,No,Human error,Implemented,Open
+INC-0070,2026-05-17,15:02,Day,Shaft B,Processing,Slip/Fall,Moderate,Yes,Yes,Equipment failure,Implemented,Closed
+INC-0071,2026-05-14,13:44,Day,Plant,Engineering,Equipment Failure,Minor,No,No,Wet floor,Implemented,Closed
+INC-0072,2026-04-26,14:30,Day,Pit 1,Maintenance,Slip/Fall,Major,No,No,Human error,Implemented,In Progress
+INC-0073,2026-08-02,11:46,Day,Shaft A,Underground,Electrical,Minor,No,No,Lack of PPE,Pending,Open
+INC-0074,2026-06-24,10:20,Day,Pit 2,Engineering,Chemical Exposure,Moderate,No,No,Wet floor,Implemented,In Progress
+INC-0075,2026-05-10,12:47,Day,Stockpile,Engineering,Caught In/Between,Major,No,No,Wet floor,Implemented,Open
+INC-0076,2026-07-29,01:32,Night,Shaft A,Processing,Fire,Minor,No,No,Poor visibility,Implemented,In Progress
+INC-0077,2026-05-24,12:39,Day,Pit 2,Underground,Electrical,Minor,Yes,Yes,Inadequate training,Pending,Open
+INC-0078,2026-09-12,08:15,Day,Workshop,Maintenance,Slip/Fall,Minor,Yes,Yes,Poor visibility,Implemented,In Progress
+INC-0079,2026-05-11,09:12,Day,Shaft B,Underground,Electrical,Minor,No,No,Inadequate training,Implemented,Open
+INC-0080,2026-06-25,08:54,Day,Stockpile,Engineering,Slip/Fall,Major,No,No,Lack of PPE,Implemented,Closed
+INC-0081,2026-06-21,14:51,Day,Pit 1,Processing,Slip/Fall,Minor,No,No,Equipment failure,Implemented,Closed
+INC-0082,2026-09-30,02:44,Night,Shaft A,Underground,Caught In/Between,Minor,No,No,Wet floor,Implemented,In Progress
+INC-0083,2026-05-25,01:59,Night,Plant,Engineering,Equipment Failure,Moderate,No,No,Human error,Pending,Closed
+INC-0084,2026-04-27,11:45,Day,Pit 2,Engineering,Other,Minor,No,No,Wet floor,Pending,Closed
+INC-0085,2026-05-14,02:07,Night,Plant,Maintenance,Chemical Exposure,Minor,No,No,Human error,Pending,Closed
+INC-0086,2026-04-28,14:53,Day,Pit 1,Processing,Electrical,Minor,Yes,Yes,Human error,Pending,Closed
+INC-0087,2026-08-02,19:48,Night,Plant,Engineering,Electrical,Minor,No,No,Human error,Implemented,Closed
+INC-0088,2026-04-25,03:41,Night,Pit 2,Engineering,Fire,Minor,Yes,Yes,Fatigue,Implemented,In Progress
+INC-0089,2026-05-14,02:41,Night,Pit 2,Processing,Equipment Failure,Critical,Yes,No,Wet floor,Implemented,Open
+INC-0090,2026-08-04,09:05,Day,Pit 1,Processing,Caught In/Between,Moderate,No,No,Poor visibility,Implemented,Open
+INC-0091,2026-08-23,10:47,Day,Pit 1,Open Pit,Caught In/Between,Moderate,Yes,No,Human error,Pending,Open
+INC-0092,2026-05-29,09:49,Day,Shaft B,Maintenance,Other,Moderate,No,No,Inadequate training,Implemented,Closed
+INC-0093,2026-08-07,12:39,Day,Plant,Processing,Electrical,Major,No,No,Equipment failure,Implemented,In Progress
+INC-0094,2026-08-06,10:59,Day,Pit 1,Engineering,Equipment Failure,Moderate,No,No,Poor visibility,Implemented,Open
+INC-0095,2026-04-29,02:33,Night,Stockpile,Underground,Fire,Minor,No,No,Wet floor,Implemented,Closed
+INC-0096,2026-04-25,05:38,Night,Pit 1,Engineering,Other,Major,No,No,Lack of PPE,Pending,Open
+INC-0097,2026-08-07,18:31,Night,Plant,Open Pit,Slip/Fall,Major,Yes,No,Equipment failure,Implemented,In Progress
+INC-0098,2026-08-27,07:19,Day,Pit 1,Maintenance,Fire,Minor,No,No,Inadequate training,Implemented,Closed
+INC-0099,2026-04-28,11:21,Day,Pit 2,Processing,Chemical Exposure,Minor,Yes,No,Fatigue,Implemented,Closed
+INC-0100,2026-05-23,00:45,Night,Workshop,Maintenance,Struck by Object,Moderate,Yes,Yes,Lack of PPE,Implemented,Open
+INC-0101,2026-07-03,08:04,Day,Workshop,Engineering,Equipment Failure,Moderate,Yes,Yes,Fatigue,Implemented,Closed
+INC-0102,2026-07-15,15:03,Day,Pit 1,Maintenance,Caught In/Between,Minor,No,No,Equipment failure,Implemented,Open
+INC-0103,2026-05-04,00:34,Night,Plant,Engineering,Slip/Fall,Moderate,No,No,Fatigue,Implemented,Closed
+INC-0104,2026-05-18,10:04,Day,Plant,Open Pit,Other,Minor,Yes,No,Human error,Implemented,Closed
+INC-0105,2026-06-14,05:19,Night,Pit 2,Open Pit,Caught In/Between,Minor,No,No,Poor visibility,Implemented,In Progress
+INC-0106,2026-06-03,02:23,Night,Pit 2,Processing,Fire,Major,No,No,Lack of PPE,Implemented,Open
+INC-0107,2026-06-05,09:48,Day,Pit 1,Engineering,Equipment Failure,Major,Yes,No,Fatigue,Implemented,Open
+INC-0108,2026-06-25,17:28,Day,Plant,Open Pit,Fire,Minor,No,No,Human error,Implemented,Open
+INC-0109,2026-08-08,02:39,Night,Shaft B,Maintenance,Equipment Failure,Minor,Yes,No,Poor visibility,Pending,In Progress
+INC-0110,2026-05-10,13:21,Day,Stockpile,Maintenance,Struck by Object,Minor,Yes,Yes,Inadequate training,Implemented,In Progress
+INC-0111,2026-09-18,15:37,Day,Plant,Engineering,Fire,Minor,Yes,No,Human error,Implemented,Open
+INC-0112,2026-06-30,17:43,Day,Plant,Maintenance,Equipment Failure,Minor,No,No,Human error,Implemented,In Progress
+INC-0113,2026-09-14,07:41,Day,Workshop,Open Pit,Chemical Exposure,Moderate,No,No,Wet floor,Pending,In Progress
+INC-0114,2026-06-15,09:06,Day,Plant,Processing,Equipment Failure,Minor,No,No,Lack of PPE,Implemented,Closed
+INC-0115,2026-09-02,15:04,Day,Pit 1,Processing,Slip/Fall,Major,Yes,Yes,Poor visibility,Implemented,In Progress
+INC-0116,2026-06-15,14:22,Day,Workshop,Processing,Struck by Object,Moderate,No,No,Human error,Implemented,In Progress
+INC-0117,2026-09-25,20:33,Night,Workshop,Maintenance,Struck by Object,Moderate,No,No,Inadequate training,Pending,Closed
+INC-0118,2026-08-09,15:58,Day,Shaft A,Processing,Chemical Exposure,Minor,No,No,Lack of PPE,Implemented,Closed
+INC-0119,2026-08-13,22:42,Night,Stockpile,Underground,Electrical,Moderate,Yes,Yes,Poor visibility,Pending,In Progress
+INC-0120,2026-08-04,03:27,Night,Pit 1,Open Pit,Other,Minor,No,No,Fatigue,Implemented,Closed

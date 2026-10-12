@@ -1,0 +1,27 @@
+{
+  "admin": {
+    "password": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9",
+    "role": "Administrator",
+    "name": "Reatile Motang"
+  },
+  "safety": {
+    "password": "9a72c3f322b7c34eef4c4558f6114664956bbcd448da5fa4377185a188b6a4ce",
+    "role": "Safety Officer",
+    "name": "Simphiwe Nkwanyana"
+  },
+  "mining": {
+    "password": "c04d72caf2935159f460f0ed244c6ce9b4d37e56cd1d00d4ac950c7d0849aa65",
+    "role": "Mining Engineer",
+    "name": "Tumelo Moatlhodi"
+  },
+  "maint": {
+    "password": "2eab737d095f86d7e5a1fc616298ac81169cc91b09d1035b44706bc0a1c10ecf",
+    "role": "Maintenance Engineer",
+    "name": "Humbulani Maselesele"
+  },
+  "manager": {
+    "password": "866485796cfa8d7c0cf7111640205b83076433547577511d81f8030ae99ecea5",
+    "role": "Manager",
+    "name": "Milka Madahana"
+  }
+}
